@@ -1,0 +1,582 @@
+[Mon Apr 13 19:16:35.385817 2026] [core:warn] [pid 16828:tid 488] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:16:35.405818 2026] [mpm_winnt:notice] [pid 16828:tid 488] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:16:35.405818 2026] [mpm_winnt:notice] [pid 16828:tid 488] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:16:35.405818 2026] [core:notice] [pid 16828:tid 488] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:16:35.408818 2026] [mpm_winnt:notice] [pid 16828:tid 488] AH00418: Parent: Created child process 13020
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13020:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:18:15.035742 2026] [mpm_winnt:notice] [pid 16828:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:18:17.059740 2026] [mpm_winnt:notice] [pid 13020:tid 472] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:18:17.083742 2026] [mpm_winnt:notice] [pid 16828:tid 488] AH00430: Parent: Child process 13020 exited successfully.
+[Mon Apr 13 19:20:48.940815 2026] [mpm_winnt:notice] [pid 7208:tid 460] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:20:48.940815 2026] [mpm_winnt:notice] [pid 7208:tid 460] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:20:48.940815 2026] [core:notice] [pid 7208:tid 460] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:20:48.944816 2026] [mpm_winnt:notice] [pid 7208:tid 460] AH00418: Parent: Created child process 14852
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14852:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:21:59.091177 2026] [mpm_winnt:notice] [pid 7208:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:22:01.100178 2026] [mpm_winnt:notice] [pid 14852:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:22:01.123175 2026] [mpm_winnt:notice] [pid 7208:tid 460] AH00430: Parent: Child process 14852 exited successfully.
+[Mon Apr 13 19:23:47.252568 2026] [mpm_winnt:notice] [pid 20352:tid 508] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:23:47.252568 2026] [mpm_winnt:notice] [pid 20352:tid 508] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:23:47.252568 2026] [core:notice] [pid 20352:tid 508] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:23:47.256568 2026] [mpm_winnt:notice] [pid 20352:tid 508] AH00418: Parent: Created child process 14168
+[Mon Apr 13 19:23:47.500567 2026] [mpm_winnt:notice] [pid 14168:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:24:31.369301 2026] [core:warn] [pid 20072:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:24:31.389305 2026] [mpm_winnt:notice] [pid 20072:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:24:31.389305 2026] [mpm_winnt:notice] [pid 20072:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:24:31.389305 2026] [core:notice] [pid 20072:tid 500] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:24:31.393306 2026] [mpm_winnt:notice] [pid 20072:tid 500] AH00418: Parent: Created child process 20392
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20392:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:25:42.774759 2026] [mpm_winnt:notice] [pid 20072:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:25:44.786759 2026] [mpm_winnt:notice] [pid 20392:tid 476] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:25:44.809760 2026] [mpm_winnt:notice] [pid 20072:tid 500] AH00430: Parent: Child process 20392 exited successfully.
+[Mon Apr 13 19:25:49.841762 2026] [mpm_winnt:notice] [pid 7932:tid 456] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:25:49.842761 2026] [mpm_winnt:notice] [pid 7932:tid 456] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:25:49.842761 2026] [core:notice] [pid 7932:tid 456] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:25:49.846760 2026] [mpm_winnt:notice] [pid 7932:tid 456] AH00418: Parent: Created child process 18208
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18208:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:26:36.199816 2026] [mpm_winnt:notice] [pid 7932:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:26:38.211818 2026] [mpm_winnt:notice] [pid 18208:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:26:38.239816 2026] [mpm_winnt:notice] [pid 7932:tid 456] AH00430: Parent: Child process 18208 exited successfully.
+[Mon Apr 13 19:27:03.674074 2026] [mpm_winnt:notice] [pid 12988:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:27:03.674074 2026] [mpm_winnt:notice] [pid 12988:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:27:03.674074 2026] [core:notice] [pid 12988:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:27:03.677072 2026] [mpm_winnt:notice] [pid 12988:tid 448] AH00418: Parent: Created child process 1628
+[Mon Apr 13 19:27:03.909069 2026] [mpm_winnt:notice] [pid 1628:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:27:26.320649 2026] [core:warn] [pid 13572:tid 480] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:27:26.338653 2026] [mpm_winnt:notice] [pid 13572:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:27:26.338653 2026] [mpm_winnt:notice] [pid 13572:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:27:26.338653 2026] [core:notice] [pid 13572:tid 480] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:27:26.341649 2026] [mpm_winnt:notice] [pid 13572:tid 480] AH00418: Parent: Created child process 6956
+[Mon Apr 13 19:27:26.549652 2026] [mpm_winnt:notice] [pid 6956:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:27:37.313249 2026] [core:warn] [pid 8600:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:27:37.332249 2026] [mpm_winnt:notice] [pid 8600:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:27:37.332249 2026] [mpm_winnt:notice] [pid 8600:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:27:37.332249 2026] [core:notice] [pid 8600:tid 500] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:27:37.335250 2026] [mpm_winnt:notice] [pid 8600:tid 500] AH00418: Parent: Created child process 1204
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1204:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:28:53.591744 2026] [mpm_winnt:notice] [pid 8600:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:28:55.614489 2026] [mpm_winnt:notice] [pid 1204:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:28:55.637490 2026] [mpm_winnt:notice] [pid 8600:tid 500] AH00430: Parent: Child process 1204 exited successfully.
+[Mon Apr 13 19:30:39.080765 2026] [mpm_winnt:notice] [pid 1304:tid 452] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:30:39.081765 2026] [mpm_winnt:notice] [pid 1304:tid 452] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:30:39.081765 2026] [core:notice] [pid 1304:tid 452] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:30:39.084767 2026] [mpm_winnt:notice] [pid 1304:tid 452] AH00418: Parent: Created child process 14924
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14924:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:35:01.011491 2026] [mpm_winnt:notice] [pid 1304:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:35:03.020492 2026] [mpm_winnt:notice] [pid 14924:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:35:03.042492 2026] [mpm_winnt:notice] [pid 1304:tid 452] AH00430: Parent: Child process 14924 exited successfully.
+[Mon Apr 13 19:35:15.095493 2026] [mpm_winnt:notice] [pid 8872:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:35:15.095493 2026] [mpm_winnt:notice] [pid 8872:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:35:15.095493 2026] [core:notice] [pid 8872:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:35:15.099494 2026] [mpm_winnt:notice] [pid 8872:tid 448] AH00418: Parent: Created child process 16824
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16824:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:36:42.984101 2026] [mpm_winnt:notice] [pid 8872:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:36:44.997100 2026] [mpm_winnt:notice] [pid 16824:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:36:45.021100 2026] [mpm_winnt:notice] [pid 8872:tid 448] AH00430: Parent: Child process 16824 exited successfully.
+[Mon Apr 13 19:37:06.454654 2026] [mpm_winnt:notice] [pid 20704:tid 460] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:37:06.454654 2026] [mpm_winnt:notice] [pid 20704:tid 460] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:37:06.454654 2026] [core:notice] [pid 20704:tid 460] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:37:06.457649 2026] [mpm_winnt:notice] [pid 20704:tid 460] AH00418: Parent: Created child process 18992
+[Mon Apr 13 19:37:06.661651 2026] [mpm_winnt:notice] [pid 18992:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:37:53.010472 2026] [core:warn] [pid 15236:tid 448] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:37:53.028473 2026] [mpm_winnt:notice] [pid 15236:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:37:53.028473 2026] [mpm_winnt:notice] [pid 15236:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:37:53.028473 2026] [core:notice] [pid 15236:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:37:53.032474 2026] [mpm_winnt:notice] [pid 15236:tid 448] AH00418: Parent: Created child process 19008
+[Mon Apr 13 19:37:53.252473 2026] [mpm_winnt:notice] [pid 19008:tid 500] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:41:57.620334 2026] [core:warn] [pid 16592:tid 456] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:41:57.643337 2026] [mpm_winnt:notice] [pid 16592:tid 456] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:41:57.643337 2026] [mpm_winnt:notice] [pid 16592:tid 456] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:41:57.643337 2026] [core:notice] [pid 16592:tid 456] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:41:57.647334 2026] [mpm_winnt:notice] [pid 16592:tid 456] AH00418: Parent: Created child process 21404
+[Mon Apr 13 19:41:57.869335 2026] [mpm_winnt:notice] [pid 21404:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:43:58.531377 2026] [core:warn] [pid 20880:tid 448] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:43:58.558367 2026] [mpm_winnt:notice] [pid 20880:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:43:58.558367 2026] [mpm_winnt:notice] [pid 20880:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:43:58.558367 2026] [core:notice] [pid 20880:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:43:58.564369 2026] [mpm_winnt:notice] [pid 20880:tid 448] AH00418: Parent: Created child process 5540
+[Mon Apr 13 19:43:58.887368 2026] [mpm_winnt:notice] [pid 5540:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:44:12.352366 2026] [core:warn] [pid 15116:tid 472] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:44:12.369369 2026] [mpm_winnt:notice] [pid 15116:tid 472] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:44:12.369369 2026] [mpm_winnt:notice] [pid 15116:tid 472] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:44:12.369369 2026] [core:notice] [pid 15116:tid 472] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:44:12.373370 2026] [mpm_winnt:notice] [pid 15116:tid 472] AH00418: Parent: Created child process 19620
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19620:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:45:04.620979 2026] [mpm_winnt:notice] [pid 15116:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:45:06.633977 2026] [mpm_winnt:notice] [pid 19620:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:45:06.655979 2026] [mpm_winnt:notice] [pid 15116:tid 472] AH00430: Parent: Child process 19620 exited successfully.
+[Mon Apr 13 19:45:08.751979 2026] [mpm_winnt:notice] [pid 12924:tid 464] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:45:08.751979 2026] [mpm_winnt:notice] [pid 12924:tid 464] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:45:08.751979 2026] [core:notice] [pid 12924:tid 464] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:45:08.755979 2026] [mpm_winnt:notice] [pid 12924:tid 464] AH00418: Parent: Created child process 7732
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7732:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:53:06.461795 2026] [mpm_winnt:notice] [pid 12924:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:53:08.480797 2026] [mpm_winnt:notice] [pid 7732:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:53:08.502794 2026] [mpm_winnt:notice] [pid 12924:tid 464] AH00430: Parent: Child process 7732 exited successfully.
+[Mon Apr 13 19:56:54.913607 2026] [mpm_winnt:notice] [pid 20812:tid 468] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:56:54.914608 2026] [mpm_winnt:notice] [pid 20812:tid 468] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:56:54.914608 2026] [core:notice] [pid 20812:tid 468] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:56:54.917607 2026] [mpm_winnt:notice] [pid 20812:tid 468] AH00418: Parent: Created child process 12044
+[Mon Apr 13 19:56:55.160609 2026] [mpm_winnt:notice] [pid 12044:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:57:06.415624 2026] [core:warn] [pid 12924:tid 448] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:57:06.435625 2026] [mpm_winnt:notice] [pid 12924:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:57:06.435625 2026] [mpm_winnt:notice] [pid 12924:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:57:06.435625 2026] [core:notice] [pid 12924:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:57:06.439625 2026] [mpm_winnt:notice] [pid 12924:tid 448] AH00418: Parent: Created child process 18424
+[Mon Apr 13 19:57:06.649625 2026] [mpm_winnt:notice] [pid 18424:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:57:35.383268 2026] [core:warn] [pid 1100:tid 464] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:57:35.402271 2026] [mpm_winnt:notice] [pid 1100:tid 464] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:57:35.402271 2026] [mpm_winnt:notice] [pid 1100:tid 464] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:57:35.402271 2026] [core:notice] [pid 1100:tid 464] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:57:35.406268 2026] [mpm_winnt:notice] [pid 1100:tid 464] AH00418: Parent: Created child process 20340
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20340:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:57:40.108417 2026] [mpm_winnt:notice] [pid 1100:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:57:42.118415 2026] [mpm_winnt:notice] [pid 20340:tid 476] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:57:42.141418 2026] [mpm_winnt:notice] [pid 1100:tid 464] AH00430: Parent: Child process 20340 exited successfully.
+[Mon Apr 13 19:58:04.566377 2026] [mpm_winnt:notice] [pid 13484:tid 452] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:58:04.566377 2026] [mpm_winnt:notice] [pid 13484:tid 452] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:58:04.566377 2026] [core:notice] [pid 13484:tid 452] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:58:04.570378 2026] [mpm_winnt:notice] [pid 13484:tid 452] AH00418: Parent: Created child process 12244
+[Mon Apr 13 19:58:04.844378 2026] [mpm_winnt:notice] [pid 12244:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:58:11.418379 2026] [core:warn] [pid 11372:tid 492] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:58:11.436377 2026] [mpm_winnt:notice] [pid 11372:tid 492] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:58:11.436377 2026] [mpm_winnt:notice] [pid 11372:tid 492] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:58:11.436377 2026] [core:notice] [pid 11372:tid 492] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:58:11.439376 2026] [mpm_winnt:notice] [pid 11372:tid 492] AH00418: Parent: Created child process 20048
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20048:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:58:58.480362 2026] [mpm_winnt:notice] [pid 11372:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:59:00.498362 2026] [mpm_winnt:notice] [pid 20048:tid 496] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:59:00.523360 2026] [mpm_winnt:notice] [pid 11372:tid 492] AH00430: Parent: Child process 20048 exited successfully.
+[Mon Apr 13 19:59:23.029435 2026] [mpm_winnt:notice] [pid 20316:tid 460] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:59:23.029435 2026] [mpm_winnt:notice] [pid 20316:tid 460] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:59:23.029435 2026] [core:notice] [pid 20316:tid 460] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:59:23.035435 2026] [mpm_winnt:notice] [pid 20316:tid 460] AH00418: Parent: Created child process 9720
+[Mon Apr 13 19:59:23.301435 2026] [mpm_winnt:notice] [pid 9720:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:59:27.334435 2026] [core:warn] [pid 16416:tid 452] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 19:59:27.354434 2026] [mpm_winnt:notice] [pid 16416:tid 452] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 19:59:27.354434 2026] [mpm_winnt:notice] [pid 16416:tid 452] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 19:59:27.354434 2026] [core:notice] [pid 16416:tid 452] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 19:59:27.358434 2026] [mpm_winnt:notice] [pid 16416:tid 452] AH00418: Parent: Created child process 21128
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21128:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 19:59:55.859634 2026] [mpm_winnt:notice] [pid 16416:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 19:59:57.875635 2026] [mpm_winnt:notice] [pid 21128:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 19:59:57.899635 2026] [mpm_winnt:notice] [pid 16416:tid 452] AH00430: Parent: Child process 21128 exited successfully.
+[Mon Apr 13 20:00:24.910026 2026] [mpm_winnt:notice] [pid 2492:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:00:24.911026 2026] [mpm_winnt:notice] [pid 2492:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:00:24.911026 2026] [core:notice] [pid 2492:tid 480] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:00:24.916027 2026] [mpm_winnt:notice] [pid 2492:tid 480] AH00418: Parent: Created child process 9892
+[Mon Apr 13 20:00:25.209104 2026] [mpm_winnt:notice] [pid 9892:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:00:29.373027 2026] [core:warn] [pid 21476:tid 480] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:00:29.392026 2026] [mpm_winnt:notice] [pid 21476:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:00:29.392026 2026] [mpm_winnt:notice] [pid 21476:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:00:29.392026 2026] [core:notice] [pid 21476:tid 480] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:00:29.396027 2026] [mpm_winnt:notice] [pid 21476:tid 480] AH00418: Parent: Created child process 20504
+[Mon Apr 13 20:00:29.787025 2026] [mpm_winnt:notice] [pid 20504:tid 464] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:00:33.382025 2026] [core:warn] [pid 16832:tid 448] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:00:33.405026 2026] [mpm_winnt:notice] [pid 16832:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:00:33.405026 2026] [mpm_winnt:notice] [pid 16832:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:00:33.405026 2026] [core:notice] [pid 16832:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:00:33.408025 2026] [mpm_winnt:notice] [pid 16832:tid 448] AH00418: Parent: Created child process 16580
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16580:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:00:38.947026 2026] [mpm_winnt:notice] [pid 16832:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:00:40.966025 2026] [mpm_winnt:notice] [pid 16580:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:00:40.988027 2026] [mpm_winnt:notice] [pid 16832:tid 448] AH00430: Parent: Child process 16580 exited successfully.
+[Mon Apr 13 20:01:26.855379 2026] [mpm_winnt:notice] [pid 19160:tid 476] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:01:26.856379 2026] [mpm_winnt:notice] [pid 19160:tid 476] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:01:26.856379 2026] [core:notice] [pid 19160:tid 476] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:01:26.859378 2026] [mpm_winnt:notice] [pid 19160:tid 476] AH00418: Parent: Created child process 21052
+[Mon Apr 13 20:01:27.077379 2026] [mpm_winnt:notice] [pid 21052:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:01:30.344380 2026] [core:warn] [pid 20568:tid 480] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:01:30.362378 2026] [mpm_winnt:notice] [pid 20568:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:01:30.362378 2026] [mpm_winnt:notice] [pid 20568:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:01:30.362378 2026] [core:notice] [pid 20568:tid 480] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:01:30.365378 2026] [mpm_winnt:notice] [pid 20568:tid 480] AH00418: Parent: Created child process 20340
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20340:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:02:22.344315 2026] [mpm_winnt:notice] [pid 20568:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:02:24.355315 2026] [mpm_winnt:notice] [pid 20340:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:02:24.380316 2026] [mpm_winnt:notice] [pid 20568:tid 480] AH00430: Parent: Child process 20340 exited successfully.
+[Mon Apr 13 20:07:56.754685 2026] [mpm_winnt:notice] [pid 12900:tid 448] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:07:56.754685 2026] [mpm_winnt:notice] [pid 12900:tid 448] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:07:56.754685 2026] [core:notice] [pid 12900:tid 448] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:07:56.758686 2026] [mpm_winnt:notice] [pid 12900:tid 448] AH00418: Parent: Created child process 20984
+[Mon Apr 13 20:07:57.061687 2026] [mpm_winnt:notice] [pid 20984:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:08:25.318242 2026] [core:warn] [pid 15088:tid 460] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:08:25.335243 2026] [mpm_winnt:notice] [pid 15088:tid 460] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:08:25.335243 2026] [mpm_winnt:notice] [pid 15088:tid 460] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:08:25.335243 2026] [core:notice] [pid 15088:tid 460] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:08:25.339244 2026] [mpm_winnt:notice] [pid 15088:tid 460] AH00418: Parent: Created child process 12528
+[Mon Apr 13 20:08:25.545245 2026] [mpm_winnt:notice] [pid 12528:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:08:58.395118 2026] [core:warn] [pid 16008:tid 476] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:08:58.413116 2026] [mpm_winnt:notice] [pid 16008:tid 476] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:08:58.413116 2026] [mpm_winnt:notice] [pid 16008:tid 476] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:08:58.413116 2026] [core:notice] [pid 16008:tid 476] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:08:58.417117 2026] [mpm_winnt:notice] [pid 16008:tid 476] AH00418: Parent: Created child process 21400
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21400:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:10:16.917649 2026] [mpm_winnt:notice] [pid 16008:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:10:18.931650 2026] [mpm_winnt:notice] [pid 21400:tid 484] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:10:18.957650 2026] [mpm_winnt:notice] [pid 16008:tid 476] AH00430: Parent: Child process 21400 exited successfully.
+[Mon Apr 13 20:11:38.368638 2026] [mpm_winnt:notice] [pid 5176:tid 452] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:11:38.368638 2026] [mpm_winnt:notice] [pid 5176:tid 452] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:11:38.368638 2026] [core:notice] [pid 5176:tid 452] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:11:38.372637 2026] [mpm_winnt:notice] [pid 5176:tid 452] AH00418: Parent: Created child process 20168
+[Mon Apr 13 20:11:38.600637 2026] [mpm_winnt:notice] [pid 20168:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:11:47.327637 2026] [core:warn] [pid 19500:tid 468] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:11:47.344641 2026] [mpm_winnt:notice] [pid 19500:tid 468] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:11:47.344641 2026] [mpm_winnt:notice] [pid 19500:tid 468] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:11:47.344641 2026] [core:notice] [pid 19500:tid 468] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:11:47.347637 2026] [mpm_winnt:notice] [pid 19500:tid 468] AH00418: Parent: Created child process 16480
+[Mon Apr 13 20:11:47.549636 2026] [mpm_winnt:notice] [pid 16480:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:12:27.399284 2026] [core:warn] [pid 4172:tid 460] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:12:27.418285 2026] [mpm_winnt:notice] [pid 4172:tid 460] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:12:27.418285 2026] [mpm_winnt:notice] [pid 4172:tid 460] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:12:27.418285 2026] [core:notice] [pid 4172:tid 460] AH00094: Command line: 'httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\conf\\httpd.conf'
+[Mon Apr 13 20:12:27.422285 2026] [mpm_winnt:notice] [pid 4172:tid 460] AH00418: Parent: Created child process 948
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 948:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:13:21.058083 2026] [mpm_winnt:notice] [pid 4172:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:13:23.074082 2026] [mpm_winnt:notice] [pid 948:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:13:23.099083 2026] [mpm_winnt:notice] [pid 4172:tid 460] AH00430: Parent: Child process 948 exited successfully.
+[Mon Apr 13 20:25:22.145689 2026] [mpm_winnt:notice] [pid 11256:tid 524] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:25:22.145689 2026] [mpm_winnt:notice] [pid 11256:tid 524] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:25:22.145689 2026] [core:notice] [pid 11256:tid 524] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:25:22.149696 2026] [mpm_winnt:notice] [pid 11256:tid 524] AH00418: Parent: Created child process 1256
+[Mon Apr 13 20:25:22.360484 2026] [mpm_winnt:notice] [pid 1256:tid 500] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:25:57.569328 2026] [core:warn] [pid 7708:tid 484] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:25:57.586329 2026] [mpm_winnt:notice] [pid 7708:tid 484] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:25:57.586329 2026] [mpm_winnt:notice] [pid 7708:tid 484] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:25:57.586329 2026] [core:notice] [pid 7708:tid 484] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:25:57.590329 2026] [mpm_winnt:notice] [pid 7708:tid 484] AH00418: Parent: Created child process 14296
+[Mon Apr 13 20:25:57.806329 2026] [mpm_winnt:notice] [pid 14296:tid 512] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:26:03.703560 2026] [core:warn] [pid 18772:tid 492] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:26:03.721561 2026] [mpm_winnt:notice] [pid 18772:tid 492] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:26:03.721561 2026] [mpm_winnt:notice] [pid 18772:tid 492] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:26:03.721561 2026] [core:notice] [pid 18772:tid 492] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:26:03.725560 2026] [mpm_winnt:notice] [pid 18772:tid 492] AH00418: Parent: Created child process 17328
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17328:tid 464] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:26:25.971016 2026] [mpm_winnt:notice] [pid 18772:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:26:27.985016 2026] [mpm_winnt:notice] [pid 17328:tid 464] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:26:28.008022 2026] [mpm_winnt:notice] [pid 18772:tid 492] AH00430: Parent: Child process 17328 exited successfully.
+[Mon Apr 13 20:26:46.730734 2026] [mpm_winnt:notice] [pid 4352:tid 496] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:26:46.730734 2026] [mpm_winnt:notice] [pid 4352:tid 496] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:26:46.730734 2026] [core:notice] [pid 4352:tid 496] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:26:46.734737 2026] [mpm_winnt:notice] [pid 4352:tid 496] AH00418: Parent: Created child process 8788
+[Mon Apr 13 20:26:47.059510 2026] [mpm_winnt:notice] [pid 8788:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:27:13.589435 2026] [core:warn] [pid 2620:tid 468] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:27:13.609434 2026] [mpm_winnt:notice] [pid 2620:tid 468] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:27:13.609434 2026] [mpm_winnt:notice] [pid 2620:tid 468] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:27:13.609434 2026] [core:notice] [pid 2620:tid 468] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:27:13.612432 2026] [mpm_winnt:notice] [pid 2620:tid 468] AH00418: Parent: Created child process 16392
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16392:tid 492] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:27:15.165434 2026] [mpm_winnt:notice] [pid 2620:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:27:17.178432 2026] [mpm_winnt:notice] [pid 16392:tid 492] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:27:17.201432 2026] [mpm_winnt:notice] [pid 2620:tid 468] AH00430: Parent: Child process 16392 exited successfully.
+[Mon Apr 13 20:27:26.777938 2026] [mpm_winnt:notice] [pid 15928:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:27:26.777938 2026] [mpm_winnt:notice] [pid 15928:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:27:26.777938 2026] [core:notice] [pid 15928:tid 480] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:27:26.781938 2026] [mpm_winnt:notice] [pid 15928:tid 480] AH00418: Parent: Created child process 6964
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6964:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:28:12.670149 2026] [mpm_winnt:notice] [pid 15928:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:28:14.679653 2026] [mpm_winnt:notice] [pid 6964:tid 488] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:28:14.703650 2026] [mpm_winnt:notice] [pid 15928:tid 480] AH00430: Parent: Child process 6964 exited successfully.
+[Mon Apr 13 20:45:18.719017 2026] [mpm_winnt:notice] [pid 6948:tid 508] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:45:18.719017 2026] [mpm_winnt:notice] [pid 6948:tid 508] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:45:18.719017 2026] [core:notice] [pid 6948:tid 508] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:45:18.723023 2026] [mpm_winnt:notice] [pid 6948:tid 508] AH00418: Parent: Created child process 16332
+[Mon Apr 13 20:45:18.946017 2026] [mpm_winnt:notice] [pid 16332:tid 520] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:49:04.713750 2026] [core:warn] [pid 20280:tid 488] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:49:04.731795 2026] [mpm_winnt:notice] [pid 20280:tid 488] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:49:04.731795 2026] [mpm_winnt:notice] [pid 20280:tid 488] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:49:04.731795 2026] [core:notice] [pid 20280:tid 488] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:49:04.735801 2026] [mpm_winnt:notice] [pid 20280:tid 488] AH00418: Parent: Created child process 11732
+[Mon Apr 13 20:49:04.985941 2026] [mpm_winnt:notice] [pid 11732:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:49:39.589793 2026] [core:warn] [pid 13564:tid 488] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:49:39.607792 2026] [mpm_winnt:notice] [pid 13564:tid 488] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:49:39.607792 2026] [mpm_winnt:notice] [pid 13564:tid 488] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:49:39.607792 2026] [core:notice] [pid 13564:tid 488] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:49:39.611794 2026] [mpm_winnt:notice] [pid 13564:tid 488] AH00418: Parent: Created child process 4628
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4628:tid 512] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:49:54.986958 2026] [mpm_winnt:notice] [pid 13564:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:49:56.996959 2026] [mpm_winnt:notice] [pid 4628:tid 512] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:49:57.020959 2026] [mpm_winnt:notice] [pid 13564:tid 488] AH00430: Parent: Child process 4628 exited successfully.
+[Mon Apr 13 20:49:57.578957 2026] [mpm_winnt:notice] [pid 11964:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:49:57.578957 2026] [mpm_winnt:notice] [pid 11964:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:49:57.578957 2026] [core:notice] [pid 11964:tid 480] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:49:57.582957 2026] [mpm_winnt:notice] [pid 11964:tid 480] AH00418: Parent: Created child process 18100
+[Mon Apr 13 20:49:57.788960 2026] [mpm_winnt:notice] [pid 18100:tid 500] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:54:01.545056 2026] [core:warn] [pid 4124:tid 476] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:54:01.563064 2026] [mpm_winnt:notice] [pid 4124:tid 476] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:54:01.563064 2026] [mpm_winnt:notice] [pid 4124:tid 476] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:54:01.563064 2026] [core:notice] [pid 4124:tid 476] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:54:01.566056 2026] [mpm_winnt:notice] [pid 4124:tid 476] AH00418: Parent: Created child process 19908
+[Mon Apr 13 20:54:01.778059 2026] [mpm_winnt:notice] [pid 19908:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:54:34.646151 2026] [core:warn] [pid 20556:tid 504] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:54:34.663154 2026] [mpm_winnt:notice] [pid 20556:tid 504] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:54:34.663154 2026] [mpm_winnt:notice] [pid 20556:tid 504] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:54:34.663154 2026] [core:notice] [pid 20556:tid 504] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:54:34.667153 2026] [mpm_winnt:notice] [pid 20556:tid 504] AH00418: Parent: Created child process 3364
+[Mon Apr 13 20:54:34.868153 2026] [mpm_winnt:notice] [pid 3364:tid 508] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:54:43.571152 2026] [core:warn] [pid 12956:tid 536] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:54:43.590153 2026] [mpm_winnt:notice] [pid 12956:tid 536] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:54:43.590153 2026] [mpm_winnt:notice] [pid 12956:tid 536] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:54:43.590153 2026] [core:notice] [pid 12956:tid 536] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:54:43.594153 2026] [mpm_winnt:notice] [pid 12956:tid 536] AH00418: Parent: Created child process 19100
+[Mon Apr 13 20:54:43.818154 2026] [mpm_winnt:notice] [pid 19100:tid 524] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:54:55.648437 2026] [core:warn] [pid 21264:tid 496] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:54:55.668435 2026] [mpm_winnt:notice] [pid 21264:tid 496] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:54:55.668435 2026] [mpm_winnt:notice] [pid 21264:tid 496] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:54:55.668435 2026] [core:notice] [pid 21264:tid 496] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:54:55.672436 2026] [mpm_winnt:notice] [pid 21264:tid 496] AH00418: Parent: Created child process 16316
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16316:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:54:57.813448 2026] [mpm_winnt:notice] [pid 21264:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:54:59.826447 2026] [mpm_winnt:notice] [pid 16316:tid 484] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:54:59.849450 2026] [mpm_winnt:notice] [pid 21264:tid 496] AH00430: Parent: Child process 16316 exited successfully.
+[Mon Apr 13 20:55:01.566453 2026] [mpm_winnt:notice] [pid 5544:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:55:01.566453 2026] [mpm_winnt:notice] [pid 5544:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:55:01.566453 2026] [core:notice] [pid 5544:tid 480] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:55:01.570447 2026] [mpm_winnt:notice] [pid 5544:tid 480] AH00418: Parent: Created child process 17804
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17804:tid 536] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:55:03.232448 2026] [mpm_winnt:notice] [pid 5544:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:55:05.249448 2026] [mpm_winnt:notice] [pid 17804:tid 536] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:55:05.272448 2026] [mpm_winnt:notice] [pid 5544:tid 480] AH00430: Parent: Child process 17804 exited successfully.
+[Mon Apr 13 20:55:27.614167 2026] [mpm_winnt:notice] [pid 13788:tid 496] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:55:27.614167 2026] [mpm_winnt:notice] [pid 13788:tid 496] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:55:27.614167 2026] [core:notice] [pid 13788:tid 496] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:55:27.618170 2026] [mpm_winnt:notice] [pid 13788:tid 496] AH00418: Parent: Created child process 15188
+[Mon Apr 13 20:55:27.822169 2026] [mpm_winnt:notice] [pid 15188:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:55:42.564167 2026] [core:warn] [pid 16232:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:55:42.581168 2026] [mpm_winnt:notice] [pid 16232:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:55:42.581168 2026] [mpm_winnt:notice] [pid 16232:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:55:42.581168 2026] [core:notice] [pid 16232:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:55:42.585169 2026] [mpm_winnt:notice] [pid 16232:tid 500] AH00418: Parent: Created child process 8836
+[Mon Apr 13 20:55:42.795170 2026] [mpm_winnt:notice] [pid 8836:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:56:06.521094 2026] [core:warn] [pid 20888:tid 516] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:56:06.544094 2026] [mpm_winnt:notice] [pid 20888:tid 516] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:56:06.544094 2026] [mpm_winnt:notice] [pid 20888:tid 516] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:56:06.544094 2026] [core:notice] [pid 20888:tid 516] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:56:06.547096 2026] [mpm_winnt:notice] [pid 20888:tid 516] AH00418: Parent: Created child process 19476
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19476:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:56:31.495233 2026] [mpm_winnt:notice] [pid 20888:tid 516] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:56:33.504272 2026] [mpm_winnt:notice] [pid 19476:tid 496] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:56:33.527272 2026] [mpm_winnt:notice] [pid 20888:tid 516] AH00430: Parent: Child process 19476 exited successfully.
+[Mon Apr 13 20:56:37.559992 2026] [mpm_winnt:notice] [pid 2380:tid 472] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:56:37.559992 2026] [mpm_winnt:notice] [pid 2380:tid 472] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:56:37.559992 2026] [core:notice] [pid 2380:tid 472] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:56:37.563992 2026] [mpm_winnt:notice] [pid 2380:tid 472] AH00418: Parent: Created child process 21488
+[Mon Apr 13 20:56:37.774995 2026] [mpm_winnt:notice] [pid 21488:tid 500] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:57:01.599966 2026] [core:warn] [pid 12528:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:57:01.616967 2026] [mpm_winnt:notice] [pid 12528:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:57:01.616967 2026] [mpm_winnt:notice] [pid 12528:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:57:01.616967 2026] [core:notice] [pid 12528:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:57:01.619968 2026] [mpm_winnt:notice] [pid 12528:tid 500] AH00418: Parent: Created child process 19836
+[Mon Apr 13 20:57:01.830966 2026] [mpm_winnt:notice] [pid 19836:tid 492] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:57:16.651543 2026] [core:warn] [pid 15660:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:57:16.671543 2026] [mpm_winnt:notice] [pid 15660:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:57:16.671543 2026] [mpm_winnt:notice] [pid 15660:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:57:16.671543 2026] [core:notice] [pid 15660:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:57:16.675539 2026] [mpm_winnt:notice] [pid 15660:tid 500] AH00418: Parent: Created child process 2952
+[Mon Apr 13 20:57:16.893541 2026] [mpm_winnt:notice] [pid 2952:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:57:31.667626 2026] [core:warn] [pid 16960:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 20:57:31.687623 2026] [mpm_winnt:notice] [pid 16960:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:57:31.687623 2026] [mpm_winnt:notice] [pid 16960:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:57:31.687623 2026] [core:notice] [pid 16960:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:57:31.691623 2026] [mpm_winnt:notice] [pid 16960:tid 500] AH00418: Parent: Created child process 16436
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16436:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:57:34.139624 2026] [mpm_winnt:notice] [pid 16960:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:57:36.153623 2026] [mpm_winnt:notice] [pid 16436:tid 472] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:57:36.177623 2026] [mpm_winnt:notice] [pid 16960:tid 500] AH00430: Parent: Child process 16436 exited successfully.
+[Mon Apr 13 20:57:37.576622 2026] [mpm_winnt:notice] [pid 14288:tid 468] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 20:57:37.576622 2026] [mpm_winnt:notice] [pid 14288:tid 468] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 20:57:37.576622 2026] [core:notice] [pid 14288:tid 468] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 20:57:37.580626 2026] [mpm_winnt:notice] [pid 14288:tid 468] AH00418: Parent: Created child process 17024
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17024:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 20:57:38.973623 2026] [mpm_winnt:notice] [pid 14288:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 20:57:40.989622 2026] [mpm_winnt:notice] [pid 17024:tid 488] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 20:57:41.013627 2026] [mpm_winnt:notice] [pid 14288:tid 468] AH00430: Parent: Child process 17024 exited successfully.
+[Mon Apr 13 21:02:13.656457 2026] [mpm_winnt:notice] [pid 20764:tid 484] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:02:13.656457 2026] [mpm_winnt:notice] [pid 20764:tid 484] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:02:13.656457 2026] [core:notice] [pid 20764:tid 484] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:02:13.659457 2026] [mpm_winnt:notice] [pid 20764:tid 484] AH00418: Parent: Created child process 1588
+[Mon Apr 13 21:02:13.875460 2026] [mpm_winnt:notice] [pid 1588:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:03:53.211067 2026] [core:warn] [pid 16480:tid 484] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:03:53.248067 2026] [mpm_winnt:notice] [pid 16480:tid 484] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:03:53.248067 2026] [mpm_winnt:notice] [pid 16480:tid 484] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:03:53.248067 2026] [core:notice] [pid 16480:tid 484] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:03:53.254068 2026] [mpm_winnt:notice] [pid 16480:tid 484] AH00418: Parent: Created child process 6808
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6808:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:04:13.367066 2026] [mpm_winnt:notice] [pid 16480:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:04:15.378069 2026] [mpm_winnt:notice] [pid 6808:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:04:15.401066 2026] [mpm_winnt:notice] [pid 16480:tid 484] AH00430: Parent: Child process 6808 exited successfully.
+[Mon Apr 13 21:04:20.630541 2026] [mpm_winnt:notice] [pid 21240:tid 240] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:04:20.630541 2026] [mpm_winnt:notice] [pid 21240:tid 240] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:04:20.630541 2026] [core:notice] [pid 21240:tid 240] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:04:20.634542 2026] [mpm_winnt:notice] [pid 21240:tid 240] AH00418: Parent: Created child process 19544
+[Mon Apr 13 21:04:20.846540 2026] [mpm_winnt:notice] [pid 19544:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:04:44.571467 2026] [core:warn] [pid 19888:tid 468] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:04:44.588468 2026] [mpm_winnt:notice] [pid 19888:tid 468] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:04:44.588468 2026] [mpm_winnt:notice] [pid 19888:tid 468] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:04:44.588468 2026] [core:notice] [pid 19888:tid 468] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:04:44.592467 2026] [mpm_winnt:notice] [pid 19888:tid 468] AH00418: Parent: Created child process 19600
+[Mon Apr 13 21:04:44.810468 2026] [mpm_winnt:notice] [pid 19600:tid 516] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:04:56.580467 2026] [core:warn] [pid 5684:tid 512] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:04:56.599467 2026] [mpm_winnt:notice] [pid 5684:tid 512] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:04:56.599467 2026] [mpm_winnt:notice] [pid 5684:tid 512] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:04:56.599467 2026] [core:notice] [pid 5684:tid 512] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:04:56.603467 2026] [mpm_winnt:notice] [pid 5684:tid 512] AH00418: Parent: Created child process 14464
+[Mon Apr 13 21:04:56.817466 2026] [mpm_winnt:notice] [pid 14464:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:10:01.638720 2026] [core:warn] [pid 11056:tid 512] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:10:01.658720 2026] [mpm_winnt:notice] [pid 11056:tid 512] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:10:01.658720 2026] [mpm_winnt:notice] [pid 11056:tid 512] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:10:01.658720 2026] [core:notice] [pid 11056:tid 512] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:10:01.661721 2026] [mpm_winnt:notice] [pid 11056:tid 512] AH00418: Parent: Created child process 8112
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8112:tid 492] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:11:05.359890 2026] [mpm_winnt:notice] [pid 11056:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:11:07.372466 2026] [mpm_winnt:notice] [pid 8112:tid 492] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:11:07.395467 2026] [mpm_winnt:notice] [pid 11056:tid 512] AH00430: Parent: Child process 8112 exited successfully.
+[Mon Apr 13 21:11:42.572859 2026] [mpm_winnt:notice] [pid 5860:tid 472] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:11:42.572859 2026] [mpm_winnt:notice] [pid 5860:tid 472] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:11:42.572859 2026] [core:notice] [pid 5860:tid 472] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:11:42.576858 2026] [mpm_winnt:notice] [pid 5860:tid 472] AH00418: Parent: Created child process 16060
+[Mon Apr 13 21:11:42.787857 2026] [mpm_winnt:notice] [pid 16060:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:16:27.621547 2026] [core:warn] [pid 9856:tid 480] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:16:27.640553 2026] [mpm_winnt:notice] [pid 9856:tid 480] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:16:27.640553 2026] [mpm_winnt:notice] [pid 9856:tid 480] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:16:27.640553 2026] [core:notice] [pid 9856:tid 480] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:16:27.644551 2026] [mpm_winnt:notice] [pid 9856:tid 480] AH00418: Parent: Created child process 16148
+[Mon Apr 13 21:16:27.869551 2026] [mpm_winnt:notice] [pid 16148:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:16:48.757401 2026] [core:warn] [pid 10428:tid 464] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:16:48.774392 2026] [mpm_winnt:notice] [pid 10428:tid 464] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:16:48.774392 2026] [mpm_winnt:notice] [pid 10428:tid 464] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:16:48.774392 2026] [core:notice] [pid 10428:tid 464] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:16:48.778402 2026] [mpm_winnt:notice] [pid 10428:tid 464] AH00418: Parent: Created child process 4416
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4416:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:16:52.795392 2026] [mpm_winnt:notice] [pid 10428:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:16:54.816391 2026] [mpm_winnt:notice] [pid 4416:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:16:54.840391 2026] [mpm_winnt:notice] [pid 10428:tid 464] AH00430: Parent: Child process 4416 exited successfully.
+[Mon Apr 13 21:16:57.677391 2026] [mpm_winnt:notice] [pid 20936:tid 464] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:16:57.677391 2026] [mpm_winnt:notice] [pid 20936:tid 464] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:16:57.677391 2026] [core:notice] [pid 20936:tid 464] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:16:57.680392 2026] [mpm_winnt:notice] [pid 20936:tid 464] AH00418: Parent: Created child process 12320
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12320:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:17:01.225393 2026] [mpm_winnt:notice] [pid 20936:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:17:03.248393 2026] [mpm_winnt:notice] [pid 12320:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:17:03.271393 2026] [mpm_winnt:notice] [pid 20936:tid 464] AH00430: Parent: Child process 12320 exited successfully.
+[Mon Apr 13 21:17:13.563078 2026] [mpm_winnt:notice] [pid 1436:tid 528] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:17:13.563078 2026] [mpm_winnt:notice] [pid 1436:tid 528] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:17:13.563078 2026] [core:notice] [pid 1436:tid 528] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:17:13.566080 2026] [mpm_winnt:notice] [pid 1436:tid 528] AH00418: Parent: Created child process 12932
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12932:tid 516] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:18:19.906599 2026] [mpm_winnt:notice] [pid 1436:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:18:21.926597 2026] [mpm_winnt:notice] [pid 12932:tid 516] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:18:21.955597 2026] [mpm_winnt:notice] [pid 1436:tid 528] AH00430: Parent: Child process 12932 exited successfully.
+[Mon Apr 13 21:21:06.612656 2026] [mpm_winnt:notice] [pid 4024:tid 496] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:21:06.612656 2026] [mpm_winnt:notice] [pid 4024:tid 496] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:21:06.612656 2026] [core:notice] [pid 4024:tid 496] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:21:06.615653 2026] [mpm_winnt:notice] [pid 4024:tid 496] AH00418: Parent: Created child process 19992
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19992:tid 512] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:21:09.505747 2026] [mpm_winnt:notice] [pid 4024:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:21:11.518747 2026] [mpm_winnt:notice] [pid 19992:tid 512] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:21:11.542747 2026] [mpm_winnt:notice] [pid 4024:tid 496] AH00430: Parent: Child process 19992 exited successfully.
+[Mon Apr 13 21:24:14.213672 2026] [mpm_winnt:notice] [pid 11288:tid 488] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:24:14.213672 2026] [mpm_winnt:notice] [pid 11288:tid 488] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:24:14.213672 2026] [core:notice] [pid 11288:tid 488] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:24:14.217671 2026] [mpm_winnt:notice] [pid 11288:tid 488] AH00418: Parent: Created child process 18296
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18296:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:26:48.657088 2026] [mpm_winnt:notice] [pid 11288:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:26:50.675820 2026] [mpm_winnt:notice] [pid 18296:tid 484] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:26:50.699820 2026] [mpm_winnt:notice] [pid 11288:tid 488] AH00430: Parent: Child process 18296 exited successfully.
+[Mon Apr 13 21:26:59.692397 2026] [mpm_winnt:notice] [pid 1904:tid 484] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:26:59.692397 2026] [mpm_winnt:notice] [pid 1904:tid 484] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:26:59.692397 2026] [core:notice] [pid 1904:tid 484] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:26:59.696400 2026] [mpm_winnt:notice] [pid 1904:tid 484] AH00418: Parent: Created child process 404
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 404:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:27:07.602881 2026] [mpm_winnt:notice] [pid 1904:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:27:09.612878 2026] [mpm_winnt:notice] [pid 404:tid 496] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:27:09.635881 2026] [mpm_winnt:notice] [pid 1904:tid 484] AH00430: Parent: Child process 404 exited successfully.
+[Mon Apr 13 21:28:19.936062 2026] [mpm_winnt:notice] [pid 16980:tid 524] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:28:19.936062 2026] [mpm_winnt:notice] [pid 16980:tid 524] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:28:19.936062 2026] [core:notice] [pid 16980:tid 524] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:28:19.940059 2026] [mpm_winnt:notice] [pid 16980:tid 524] AH00418: Parent: Created child process 12636
+[Mon Apr 13 21:28:20.148060 2026] [mpm_winnt:notice] [pid 12636:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:28:34.613980 2026] [core:warn] [pid 6880:tid 472] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:28:34.631984 2026] [mpm_winnt:notice] [pid 6880:tid 472] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:28:34.631984 2026] [mpm_winnt:notice] [pid 6880:tid 472] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:28:34.631984 2026] [core:notice] [pid 6880:tid 472] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:28:34.635982 2026] [mpm_winnt:notice] [pid 6880:tid 472] AH00418: Parent: Created child process 15768
+[Mon Apr 13 21:28:34.865983 2026] [mpm_winnt:notice] [pid 15768:tid 524] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:28:49.732789 2026] [core:warn] [pid 16592:tid 508] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 21:28:49.749791 2026] [mpm_winnt:notice] [pid 16592:tid 508] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:28:49.749791 2026] [mpm_winnt:notice] [pid 16592:tid 508] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:28:49.749791 2026] [core:notice] [pid 16592:tid 508] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:28:49.753788 2026] [mpm_winnt:notice] [pid 16592:tid 508] AH00418: Parent: Created child process 21084
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21084:tid 528] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 21:28:51.220791 2026] [mpm_winnt:notice] [pid 16592:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 13 21:28:53.240788 2026] [mpm_winnt:notice] [pid 21084:tid 528] AH00364: Child: All worker threads have exited.
+[Mon Apr 13 21:28:53.264788 2026] [mpm_winnt:notice] [pid 16592:tid 508] AH00430: Parent: Child process 21084 exited successfully.
+[Mon Apr 13 21:58:30.587597 2026] [mpm_winnt:notice] [pid 6816:tid 484] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 21:58:30.588592 2026] [mpm_winnt:notice] [pid 6816:tid 484] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 21:58:30.588592 2026] [core:notice] [pid 6816:tid 484] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 21:58:30.591592 2026] [mpm_winnt:notice] [pid 6816:tid 484] AH00418: Parent: Created child process 19760
+[Mon Apr 13 21:58:30.808593 2026] [mpm_winnt:notice] [pid 19760:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 22:04:25.597525 2026] [core:warn] [pid 11052:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 22:04:25.617527 2026] [mpm_winnt:notice] [pid 11052:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 22:04:25.617527 2026] [mpm_winnt:notice] [pid 11052:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 22:04:25.617527 2026] [core:notice] [pid 11052:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 22:04:25.620528 2026] [mpm_winnt:notice] [pid 11052:tid 500] AH00418: Parent: Created child process 15568
+[Mon Apr 13 22:04:25.843526 2026] [mpm_winnt:notice] [pid 15568:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 22:06:16.557574 2026] [core:warn] [pid 18588:tid 228] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 22:06:16.575576 2026] [mpm_winnt:notice] [pid 18588:tid 228] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 22:06:16.575576 2026] [mpm_winnt:notice] [pid 18588:tid 228] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 22:06:16.575576 2026] [core:notice] [pid 18588:tid 228] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 22:06:16.579576 2026] [mpm_winnt:notice] [pid 18588:tid 228] AH00418: Parent: Created child process 18464
+[Mon Apr 13 22:06:16.904578 2026] [mpm_winnt:notice] [pid 18464:tid 508] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 22:06:37.604790 2026] [core:warn] [pid 5692:tid 472] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 22:06:37.622793 2026] [mpm_winnt:notice] [pid 5692:tid 472] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 22:06:37.622793 2026] [mpm_winnt:notice] [pid 5692:tid 472] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 22:06:37.622793 2026] [core:notice] [pid 5692:tid 472] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 22:06:37.626790 2026] [mpm_winnt:notice] [pid 5692:tid 472] AH00418: Parent: Created child process 11608
+[Mon Apr 13 22:06:37.847792 2026] [mpm_winnt:notice] [pid 11608:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 22:06:43.597107 2026] [core:warn] [pid 18100:tid 508] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 22:06:43.618108 2026] [mpm_winnt:notice] [pid 18100:tid 508] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 22:06:43.618108 2026] [mpm_winnt:notice] [pid 18100:tid 508] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 22:06:43.618108 2026] [core:notice] [pid 18100:tid 508] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 22:06:43.622109 2026] [mpm_winnt:notice] [pid 18100:tid 508] AH00418: Parent: Created child process 19852
+[Mon Apr 13 22:06:43.848105 2026] [mpm_winnt:notice] [pid 19852:tid 516] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 13 22:07:04.601155 2026] [core:warn] [pid 11676:tid 500] AH00098: pid file C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 22:07:04.618156 2026] [mpm_winnt:notice] [pid 11676:tid 500] AH00455: Apache/2.4.66 (Win64) PHP/8.5.5 configured -- resuming normal operations
+[Mon Apr 13 22:07:04.618156 2026] [mpm_winnt:notice] [pid 11676:tid 500] AH00456: Apache Lounge VS18 server built: Feb 23 2026 10:01:09
+[Mon Apr 13 22:07:04.618156 2026] [core:notice] [pid 11676:tid 500] AH00094: Command line: 'C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\httpd.exe -d C:/Users/steve/Desktop/Infinitys_Portable_Server/Apache -f C:\\Users\\steve\\Desktop\\Infinitys_Portable_Server\\Apache\\bin\\..\\conf\\httpd.conf'
+[Mon Apr 13 22:07:04.622157 2026] [mpm_winnt:notice] [pid 11676:tid 500] AH00418: Parent: Created child process 21208
+[Mon Apr 13 22:07:04.825158 2026] [mpm_winnt:notice] [pid 21208:tid 496] AH00354: Child: Starting 64 worker threads.
