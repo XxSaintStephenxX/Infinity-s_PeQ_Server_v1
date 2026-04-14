@@ -1,4 +1,1 @@
-
-#\4\_13\_2026#
-
-Infinity's\_PeQ_Server\_ Version #= 1.0.0
+zone.pdb is 7zip and only needed when hunting down a crash
